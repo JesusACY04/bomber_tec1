@@ -1,0 +1,12 @@
+path_center - 0  - p
+wall_center - 1 - wc
+wall_down_left - 2 - wdl
+wall_down_right - 3 - wdr
+wall_left_right - 4 - wlr
+wall_top_down - 5 - wtd
+wall_top_left - 6 - wtl
+wall_top_right - 7 - wtr
+wall_without_down - 8 - wwd
+wall_without_left - 9 - wwl
+wall_without_right - 10 - wwr
+wall_without_top - 11 - wwt
